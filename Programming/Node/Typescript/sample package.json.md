@@ -20,3 +20,5 @@
 }
 ```
 uses [[webpack]] [[ts-loader]] [[webpack-cli]] [[webpack-dev-server]] 
+
+These are out of date. Maybe add these individually?
