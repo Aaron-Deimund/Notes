@@ -7,14 +7,17 @@ A simple typescript configuration:
 
 ```json
 {
-	"compilerOptions":{
-		"target": "es5",
-		"noUnusedLocals": true,
-		"outFile": "output.js"
-	},
-	"files":[
-		"app.ts"
-	]
+  "compilerOptions": {
+    "target": "es2016",                      
+	"sourceMap": true,
+    "outDir": "js", 
+    "noEmit": false,  
+    "forceConsistentCasingInFileNames": true,
+    "strict": true
+  },
+  "files":[
+    "app/app.ts"
+  ]
 }
 ```
 
