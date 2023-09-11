@@ -17,3 +17,6 @@ A simple typescript configuration:
 	]
 }
 ```
+
+create file 
+tsc --init
