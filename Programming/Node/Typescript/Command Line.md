@@ -1,11 +1,17 @@
-# Typescript
-### Install Typescript as a dev dependancy
+# Typescript Command Line Commands
+## Install Typescript as a dev dependency
 npm install -g typescript
 
-### Install all dependancies
+## Install all dependencies
 npm install
 
-### Compile code
-1. move to directory with file to compile.
-2. tsc _filename.ts
-_
+## Compile code
+### move to directory with file to compile.
+```
+tsc _filename.ts
+```
+
+## Create tsconfig.json file 
+```
+tsc --init
+```

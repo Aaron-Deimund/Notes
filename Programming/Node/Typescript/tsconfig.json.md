@@ -1,9 +1,12 @@
-Stores compiler options
-specifies included and excluded files
-Supports configuration inheritance.
-Can selectively override settings.
+# Configuration
 
-A simple typescript configuration:
+## tsconfig.json
+* Stores compiler options
+* specifies included and excluded files
+* Supports configuration inheritance.
+* Inherited configs can selectively override settings.
+
+## A simple typescript configuration:
 
 ```json
 {
@@ -22,4 +25,6 @@ A simple typescript configuration:
 ```
 
 create file 
+```
 tsc --init
+```
