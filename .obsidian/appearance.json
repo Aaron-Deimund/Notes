@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "cssTheme": "Obuntu",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "showViewHeader": false
 }
