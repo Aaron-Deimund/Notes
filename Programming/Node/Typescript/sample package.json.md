@@ -19,4 +19,4 @@
 
 }
 ```
-uses [[webpack]]
+uses [[webpack]] [[ts-loader]] [[webpack-cli]] [[webpack-dev-server]] 
