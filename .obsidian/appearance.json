@@ -1,6 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Obuntu",
+  "cssTheme": "ITS Theme",
   "theme": "moonstone",
-  "showViewHeader": false
+  "showViewHeader": false,
+  "textFontFamily": "Calibri"
 }
