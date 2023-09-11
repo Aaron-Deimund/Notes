@@ -1,3 +1,3 @@
 # Typescript
-## Install Typescript As
+## Install Typescript as a dev dependancy
 npm install -g typescript
